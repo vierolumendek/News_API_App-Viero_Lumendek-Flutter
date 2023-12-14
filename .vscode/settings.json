@@ -1,0 +1,7 @@
+{
+    "dart.flutterHotReloadOnSave": "all",
+    "dart.hotReloadOnSave": "all",
+    "files.autoSave": "afterDelay",
+    "cmake.sourceDirectory": "D:/Coding/Dart/news_api_aplication/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
